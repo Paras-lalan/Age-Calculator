@@ -1,0 +1,12 @@
+E:\Birthday\Birthday\bin\Debug\Birthday.exe.config
+E:\Birthday\Birthday\obj\Debug\Birthday.Form1.resources
+E:\Birthday\Birthday\obj\Debug\Birthday.Properties.Resources.resources
+E:\Birthday\Birthday\obj\Debug\Birthday.csproj.GenerateResource.Cache
+E:\Birthday\Birthday\bin\Debug\Database1.mdf
+E:\Birthday\Birthday\bin\Debug\Database1_log.ldf
+E:\Birthday\Birthday\bin\Debug\Birthday.exe
+E:\Birthday\Birthday\bin\Debug\Birthday.pdb
+E:\Birthday\Birthday\obj\Debug\Birthday.exe
+E:\Birthday\Birthday\obj\Debug\Birthday.pdb
+E:\Birthday\Birthday\obj\Debug\Birthday.csprojAssemblyReference.cache
+E:\Birthday\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
